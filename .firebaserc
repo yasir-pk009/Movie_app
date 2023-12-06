@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "netflixdemoapp",
+    "code ": "netflixdemoapp",
+    "staging": "netflixdemoapp"
+  },
+  "targets": {},
+  "etags": {}
+}

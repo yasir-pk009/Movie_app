@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "988733301344",
+    "firebase_url": "https://netflixdemoapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "netflixdemoapp",
+    "storage_bucket": "netflixdemoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988733301344:android:55cb26fda180a8c06fd905",
+        "android_client_info": {
+          "package_name": "com.example.netflix_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5IVCQPlHEfmFWA_dzgnj9x8MSQmE81hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

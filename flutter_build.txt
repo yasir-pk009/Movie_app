@@ -1,0 +1,32 @@
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 204ms
+
+[INFO] Setting up file watchers...
+[INFO] Setting up file watchers completed, took 6ms
+
+[INFO] Waiting for all file watchers to be ready...
+[INFO] Waiting for all file watchers to be ready completed, took 80ms
+
+[INFO] Initializing inputs
+[INFO] Reading cached asset graph...
+[INFO] Reading cached asset graph completed, took 172ms
+
+[INFO] Checking for updates since last build...
+[INFO] Checking for updates since last build completed, took 678ms
+
+[INFO] Running build...
+[INFO] 1.0s elapsed, 3/6 actions completed.
+[INFO] 2.1s elapsed, 4/30 actions completed.
+[INFO] 7.8s elapsed, 120/123 actions completed.
+[INFO] Terminating. No further builds will be scheduled
+
+[INFO] 8.9s elapsed, 152/157 actions completed.
+[INFO] Running build completed, took 9.3s
+
+[INFO] Caching finalized dependency graph...
+[INFO] Caching finalized dependency graph completed, took 102ms
+
+[INFO] Succeeded after 9.4s with 148 outputs (173 actions)
+
+[INFO] Builds finished. Safe to exit
+
